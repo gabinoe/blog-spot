@@ -36,3 +36,8 @@ This project is a blog site application that allows users to share information .
 
 To run the application, execute the following command:
 
+## LINKS
+
+- repo: https://github.com/gabinoe/blog-spot
+- pages: https://gabinoe.github.io/blog-spot
+
